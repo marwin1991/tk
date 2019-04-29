@@ -1,4 +1,4 @@
-package io.swagger.api;
+package pl.edu.agh.tk;
 
 import pl.edu.agh.tk.api.JobApi;
 import pl.edu.agh.tk.model.InlineResponse200;
